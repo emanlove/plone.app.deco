@@ -14,7 +14,7 @@ tests_require = [
     'unittest2',
     'plone.app.testing',
     'selenium>=2.0a5',
-    'plone.act'
+    'plone.act',
     'robotsuite',
     'robotframework-selenium2library'
 ]
